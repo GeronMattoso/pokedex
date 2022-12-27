@@ -1,3 +1,3 @@
 ## pokedex
-#código de uma pokedex com requisição de api e scr 
+### código de uma pokedex com requisição de api e scr 
 💠🎮💠
