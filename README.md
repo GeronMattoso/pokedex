@@ -1,3 +1,2 @@
-## Pokedex
-### código de uma pokedex com requisição de api e scr 
-💠🎮💠
+## Pokedex 💠🎮💠
+### Interface simples de uma pokedex para práticar CSS e JavaScript com requisição de api pokeapi api v2
